@@ -3,7 +3,7 @@ Bem vindo(a) ao programa **Calculadora IMC** que baseado em sua altura e peso re
 
 ## Como é realizado o Calculo?
 
-O Calculo de imc adulto é bem simples basta pegar o peso e dividir pela altura ao quadrado.
+O Calculo de imc adulto é bem simples, basta pegar o peso e dividir pela altura ao quadrado.
 
 ## Os níveis são definidos da seguinte forma:
     
@@ -19,7 +19,7 @@ O Calculo de imc adulto é bem simples basta pegar o peso e dividir pela altura 
 "Independente do resultado busque sempre se alimentar bem, fazer exercícios e não se esqueça de ir regularmente ao médico"
 
 ## Fontes
-    Torres Andreia, Andreia Torres =>  Cálculo e interpretação do Índice de Massa Corporal (IMC),  <https://andreiatorres.com/blog/2007/04/01/o-imc> - Acessado em 26/09/2024
+   [ Torres Andreia, Andreia Torres =>  Cálculo e interpretação do Índice de Massa Corporal (IMC) ]( <https://andreiatorres.com/blog/2007/04/01/o-imc>) - Acessado em 26/09/2024
     
-    Prefeitura Rio De Janeiro, site combate obesidade => <https://www.saude.rj.gov.br/obesidade/calcule-seu-imc> - Acessado em 26/09/2024
+   [ Prefeitura Rio De Janeiro, site combate obesidade ](<https://www.saude.rj.gov.br/obesidade/calcule-seu-imc>) - Acessado em 26/09/2024
     
