@@ -19,8 +19,6 @@ O Calculo de imc adulto é bem simples, basta pegar o peso e dividir pela altura
 "Independente do resultado busque sempre se alimentar bem, fazer exercícios e não se esqueça de ir regularmente ao médico"
 
 Para realização dessa atividade foi usado o  [Google Cloud Shell Editor](https://shell.cloud.google.com/?hl=pt-br&fromcloudshell=true&show=ide%2Cterminal) que é um ambiente de desenvolvimento integrado(IDE) com características semelhantes ao VSCode só que online.
-![desafio_calculadora_imc](https://github.com/user-attachments/assets/e367a6f4-f3f2-439d-b56f-b47a83b404c4)
-
 
 
 ## Fontes
